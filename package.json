@@ -2,7 +2,7 @@
   "name": "team_project_js_05",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/team_project_js_05",
+  "homepage": "https://Tonja1.github.io/team_project_js_05",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /team_project_js_05/"
@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
-    "buffer": "^6.0.3",
+    "buffer": "^5.5.0",
     "parcel": "^2.6.0",
     "parcel-reporter-clean-dist": "^1.0.4",
     "posthtml-include": "^1.7.4"
